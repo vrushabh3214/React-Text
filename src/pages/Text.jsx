@@ -57,7 +57,7 @@ export default function Text() {
         </button>
       </div>
 
-      <div>
+      <div className="my-3">
         <p>
           {
             text.split().filter((element) => {
