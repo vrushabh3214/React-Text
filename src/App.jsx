@@ -1,11 +1,13 @@
 import './App.css'
-import Text from './pages/Text'
+import Fieldset from './pages/Firebase'
+// import Text from './pages/Text'
 
 function App() {
 
   return (
     <>
-      <Text/>
+      {/* <Text/> */}
+      <Fieldset/>
     </>
   )
 }
